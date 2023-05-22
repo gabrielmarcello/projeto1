@@ -1,1 +1,2 @@
 Olá meu nome é Gabriel
+Funcionalidade de cadastrar novos usuários
